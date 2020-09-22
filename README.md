@@ -3,11 +3,9 @@
     - status
         - [ ] doing
         - [x] done
+        - [x] bonus
 - Task 2
     - status
-        - [x] doing
-        - [ ] done
-- Task 3
-    - status
-        - [x] doing
-        - [ ] done
+        - [ ] doing
+        - [x] done
+        - [ ] bonus
