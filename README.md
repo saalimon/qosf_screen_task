@@ -1,1 +1,13 @@
-# qosf_screen_task
+# qosf_screen_task  
+- Task 1
+    - status
+        - [ ] doing
+        - [x] done
+- [ ] Task 2
+    - status
+        - [x] doing
+        - [] done
+- [ ]  Task 3
+    - status
+        - [x] doing
+        - [] done
