@@ -6,8 +6,8 @@
 - Task 2
     - status
         - [x] doing
-        - [] done
+        - [ ] done
 - Task 3
     - status
         - [x] doing
-        - [] done
+        - [ ] done
