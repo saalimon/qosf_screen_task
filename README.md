@@ -3,11 +3,11 @@
     - status
         - [ ] doing
         - [x] done
-- [ ] Task 2
+- Task 2
     - status
         - [x] doing
         - [] done
-- [ ]  Task 3
+- Task 3
     - status
         - [x] doing
         - [] done
